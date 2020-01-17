@@ -1,0 +1,57 @@
+
+* {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+html {
+
+}
+
+body {
+    margin: 0;
+    background-color: #000;
+}
+
+.silvestr {
+    width: 65rem;
+    height: 35rem;
+    background-color: blue;
+    margin: 10rem auto;
+    position: relative;
+    background-color: white;
+    background-image: url('https://classes.codingbootcamp.cz/assets/classes/669/bg.svg');
+    background-size: cover;
+
+}
+
+.text {
+    width: 20rem;
+    top: 3rem;
+    left: 4rem;
+    position: absolute;
+
+}
+
+p {
+    font-size: 1rem;
+    color: white;
+    font-family: 'Lobster Two', sans-serif;
+    line-height: 1.5rem;
+}
+
+h1 {
+    font-size: 3rem;
+    color: white;
+    font-family: 'Fredoka One', serif;
+    margin-bottom: 0.5rem;
+}
+
+img {
+    width: 20rem;
+    height: auto;
+    position: absolute;
+    left: 30rem;
+    top: 3rem;
+
+}
